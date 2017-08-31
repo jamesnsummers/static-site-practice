@@ -3,10 +3,10 @@
     <div>
       <logo/>
       <h1 class="title">
-        static-site-practice
+        Do you love static?
       </h1>
       <h2 class="subtitle">
-        Nuxt.js project
+        ... I sure do.
       </h2>
       <div class="links">
         <a href="https://nuxtjs.org/" target="_blank" class="button--green">Documentation</a>
